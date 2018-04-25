@@ -1,0 +1,8 @@
+
+I spent some time working with my partner but we did not complete it together and our submissions should be graded individually.
+My partner was (PUT YOUR PARTNER'S NAME AND UCSC EMAIL HERE ).
+I spent 0 HOURS working alone.
+I spent 1.5 HOURS working with my partner on this assignment.
+I estimate that of the time spent with my partner, I "drove" 50 PERCENT of the time.
+
+Please add an explanation of why you were not able to follow the pair programming guidelines.

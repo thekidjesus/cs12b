@@ -1,0 +1,7 @@
+Hello jmunoz10
+Operating system: Linux 3.10.0-693.21.1.el7.x86_64
+Runtime environment: OpenJDK Runtime Environment 1.8.0_161-b14
+Virtual machine: OpenJDK 64-Bit Server VM 25.161-b14
+Java home directory: /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.161-0.b14.el7_4.x86_64/jre
+Free memory: 250337024 bytes
+Time: Fri Apr 06 20:08:20 PDT 2018.
